@@ -1,0 +1,23 @@
+{
+  "name": "genshin",
+  "version": "1.0.0",
+  "description": "playing genshin impact",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "author": "ArYorne",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "run": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArYorne/Discord-RPC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArYorne/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/ArYorne/Discord-RPC#readme"
+}
